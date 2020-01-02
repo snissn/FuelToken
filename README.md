@@ -6,7 +6,7 @@ Bitcoin, Ethereum, Ethereum classic all have an economic incentive that rewards 
 
 With Fuel token, miners will be rewarded over time with a fixed amount of coins per hash power they provide to the network. This means that they can expect a consistent amount of Fuel tokens over time. This means that this token has special properties that make it a new category.
 
-1. The token is a quasi stable coin in that it is pinned to a specific real world good. Each token can statistically be correlated with  a specific amount of hash power over a specific amount of time.
+1. The token is a quasi stable coin in that it is pinned to a specific real world good. Each token can statistically be correlated with  a specific amount of hash power over a specific amount of time. This correlates to Energy usage, albiet with a computational efficiency factor. And the the graph below shows the correlation between energy and cost over decades.
 
 ![Retail Energy Costs over decades](https://i.imgur.com/Yy7b9Cv.png)
 
