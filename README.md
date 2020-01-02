@@ -8,6 +8,8 @@ With Fuel token, miners will be rewarded over time with a fixed amount of coins 
 
 1. The token is a quasi stable coin in that it is pinned to a specific real world good. Each token can statistically be correlated with  a specific amount of hash power over a specific amount of time.
 
+![Retail Energy Costs over decades](https://i.imgur.com/Yy7b9Cv.png)
+
 2. Miners can have easily predictable schedules of being awarded Fuel token over a future time frame and therefore can use Fuel token in DeFi to borrow from lenders in a very predictable way.
 
 Fuel token also has properties that other tokens have like 
