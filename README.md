@@ -4,7 +4,7 @@ This is interesting, as the difficulty is proportional to the number of hashes t
 
 Bitcoin, Ethereum, Ethereum classic all have an economic incentive that rewards miners very unevely based on when they mine, as within a given year, the hashrate and difficulty of a network can vary wildly and a miner can expect a very different number of coins that they receive for a given amount of computational power. 
 
-With Fuel token, miners will be rewarded over time with a fixed amount of coins per hash power they provide to the network. This means that they can expect a consistent amount of Fuel tokens over time. This means that this token has special properties that make it a new category.
+With Fuel token, miners will be rewarded with coins proportional to their hash rate. This means that they can expect a consistent amount of Fuel tokens over time for a given mine. This means that this token has special properties that make it a new category of token.
 
 1. The token is a quasi stable coin in that it is pinned to a specific real world good. Each token can statistically be correlated with  a specific amount of hash power over a specific amount of time. This correlates to Energy usage, albiet with a computational efficiency factor. And the the graph below shows the correlation between energy and cost over decades.
 
@@ -16,6 +16,7 @@ Fuel token also has properties that other tokens have like
 
 1. Use decentralized block chain to open up the token to a liquidy market where miners who produce the supply can interact with traders, speculators and lenders who are looking to earn fees or store value.
 
+Fuel token is separate from "deflationary" coins like bitcoin, ethereum, etc which use difficulty adjustments to lower the emission rate as the hashrate of the global chain increases. Fuel token is separate from Dai and Gemini USD/CoinbaseUSD because the pricing is such that anyone may generate a Fuel token by setting up a miner to mine with enough fuel as to generate the required number of tokens. 
 
 The code is very simple and is attached below:
 
