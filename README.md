@@ -2,7 +2,7 @@
 Fuel token is an experimental token that rewards hash power to miner of the block chain proportional to the difficulty of the block. 
 This is interesting, as the difficulty is proportional to the number of hashes that went into finding a block, and the number of hashes is proportional to the energy spent by the miner with their devices especially with ASIC compatible hashing functions. Each token thereby is proportional to energy and money spent into acquiring the token. This has much different economics from the main token reward for securing the block chain which stays constant as the difficulty of the network increases. 
 
-Bitcoin, Ethereum, Ethereum classic all have an economic incentive that rewards miners very unevely based on when they turn hash power aka energy in Joules aka Money into hash rate, which is then used to dispense monetary rewards and secure the network by making old transactions more expensive and energy intensive to revert. However, within a given year, the hashrate of the network can vary wildly and a miner can expect a very different number of coins that they receive for a given amount of computational power. 
+Bitcoin, Ethereum, Ethereum classic all have an economic incentive that rewards miners very unevely based on when they mine, as within a given year, the hashrate and difficulty of a network can vary wildly and a miner can expect a very different number of coins that they receive for a given amount of computational power. 
 
 With Fuel token, miners will be rewarded over time with a fixed amount of coins per hash power they provide to the network. This means that they can expect a consistent amount of Fuel tokens over time. This means that this token has special properties that make it a new category.
 
