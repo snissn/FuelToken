@@ -9,13 +9,16 @@ contract FuelToken is ERC223Token {
     string public symbol = "FUEL";
     uint public decimals = 18; // any reason to use less?
     uint public totalSupply = 0;
+    uint public lastBlockNumber = 0;
     
     event Mint(address miner, uint reward);
     
     function mint(){
         bytes memory empty; // used for Event emit
 
-        require(block.coinbase == msg.sender);// only valid if the address minting this specific block calls this method which they can do for free
+        require(block.coinbase == msg.sender);// only valid if the address minting this specific block calls this method
+        require( block.number != lastBlockNumber); // only once per block
+        lastBlockNumber = block.number;
         uint256 reward = block.difficulty;
         balances[msg.sender] += reward;
         totalSupply += reward;
